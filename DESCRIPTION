@@ -1,0 +1,16 @@
+Package: shinyconfig
+Title: Configuration for Shiny Apps
+Version: 0.1
+Authors@R: c(
+    person("Shaurita", "Hutchins", email = "shutchins@outlook.com", role = "cre"),
+    person("Rob", "Gilmore", email = "robgilmore127@gmail.com", role = "aut"))
+Description: The shinyconfig package provides functions to aid in the configuration and setup for shiny apps as standalone apps or packages.
+Depends: R (>= 3.4.3)
+Imports:
+    shiny
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/datasnakes/shinyconfig
+BugReports: https://github.com/datasnakes/shinyconfig/issues
+RoxygenNote: 6.1.0
